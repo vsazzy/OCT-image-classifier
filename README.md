@@ -31,7 +31,6 @@ This project demonstrates the deployment of a Convolutional Neural Network (CNN)
 
 ### Clone the Repository
 git clone https://github.com/your-username/oct-streamlit-app.git
-cd oct-streamlit-app
 
 ### Create Environment & Install Dependencies
 pip install -r requirements.txt
